@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+`Nhà Cái Uy Tín Wales <https://nhacaiuytin.wales/>`_ | TOP 10 Nhà Cái Uy Tín Nhất Hiện Nay Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`nhacaiuytin.wales <https://nhacaiuytin.wales/>`_ là website đánh giá và review nhà cái cho người mới chơi cá cược trực tuyến. Tại nhacaiuytin.wales, Nhà Cái Uy Tín Wales cung cấp thông tin chi tiết về những nhà cái đáng tin cậy, có giấy phép hoạt động rõ ràng và dịch vụ hỗ trợ khách hàng chuyên nghiệp. Cam kết mang đến chia sẻ, thủ thuật, đánh giá nhà cái cũng như trải nghiệm cá cược an toàn, minh bạch và hấp dẫn nhất cho hội viên. Hãy đăng ký ngay hôm nay để được trải nghiệm những review thiết thực nhất từ tác giả CEO Đức Thọ Nhà Cái Uy Tín Wales !
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết:
 
-.. note::
+Website: https://nhacaiuytin.wales/
 
-   This project is under active development.
+Địa chỉ: 103 P. Kim Mã, Kim Mã, Ba Đình, Hà Nội
 
-Contents
---------
+Email: nhacaiuytin.wales@gmail.com
 
-.. toctree::
+Phone: 0988556327
 
-   usage
-   api
+Hastag: #nhacaiuytin; #nha_cai_uy_tin; #nhà_cái_uy_tín; #nhacaiuytinname #nhà_cái_uy_tín_name
